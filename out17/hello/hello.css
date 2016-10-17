@@ -1,0 +1,40 @@
+h1 {
+    font-size: 50px;
+}
+
+abbr {
+    border-left: dashed;
+    border-bottom: dotted;
+    border-top: dotted;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#Wolfie {
+    margin-left: 150px;
+}
+
+#Trippin {
+    border-left: none;
+    border-right: dashed;
+}
+
+p {
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    display: inline;
+    margin: 200px;
+}
+
+a {
+    color: #ffffff;
+    background-color: #800020;
+    text-decoration: none;
+}
+
+img {
+    padding-left: 75px;
+    padding-top: 25px;
+}
